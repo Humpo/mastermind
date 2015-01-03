@@ -1,3 +1,3 @@
+Record and Playback
 ==========
--Mastermind Program to record mouse and keyboard input
-==========
+-These python 2.x Programs both read and run keyboard inputs.
